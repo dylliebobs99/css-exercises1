@@ -1,0 +1,8 @@
+.odd {
+    background-color: rgba(255, 0, 0, 0.663);
+    font: 'verdana', DeJaVu sans, 'sans-serif';
+}
+
+#three {
+    font-size: 24px;
+}
