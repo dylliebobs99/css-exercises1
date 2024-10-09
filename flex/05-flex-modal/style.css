@@ -33,6 +33,19 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  gap: 16px;
+}
+
+.header {
+  font-size: 18px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.headerButton {
+  display: flex;
+  align-items: center;
+  gap: 120px;
 }
 
 .icon {
